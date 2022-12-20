@@ -1,0 +1,18 @@
+body{
+    background: url('121.jpg');
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: Arial;
+}
+.navbar-inverse{
+    background:#050a2e;
+    padding: 8px;
+    font-size: 17px;
+}
+.navbar-nav{
+    padding: 0 0 0 20px;
+}
+.navbar-right{
+     margin-right:100px;
+}
